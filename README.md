@@ -2,6 +2,9 @@
 
 A modern interior design website built with React and Vite, providing a smooth user experience and beautiful interface for interior design services.
 
+## 🌐 Live Demo
+**👉 [View Live Website](https://interior-minnduc.netlify.app/)**
+
 ## 🚀 Tech Stack
 
 - **React 18** - Modern JavaScript library for UI
